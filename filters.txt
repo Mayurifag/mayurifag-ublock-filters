@@ -1,10 +1,9 @@
 [Adblock Plus 2.0]
-! Version: 1.0
-! Title: Wake up, Neo.
-! Last modified:
-! Expires: 2 days (update frequency)
-! Homepage:
+! Title: Mayurifag's personal uBlock filters
+! Homepage: https://github.com/Mayurifag/mayurifag-ublock-filters
+! Expires: 2 days
 !
+
 2ch.hk/banners/**
 2ch.hk/ololo/**
 2ch.hk/images/**
