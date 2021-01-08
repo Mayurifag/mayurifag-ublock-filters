@@ -1,0 +1,25 @@
+[Adblock Plus 2.0]
+! Version: 1.0
+! Title: Wake up, Neo.
+! Last modified:
+! Expires: 2 days (update frequency)
+! Homepage:
+!
+2ch.hk/banners/**
+2ch.hk/ololo/**
+2ch.hk/images/**
+2ch.hk/music/**
+2ch.hk###plashque
+2ch.hk##.board-banner
+2ch.hk/makaba/templates/js/events/*.js
+2ch.hk/makaba/templates/img/santa_hat.png
+
+! https://habr.com
+habr.com##.subscription
+habr.com##.megapost-teasers
+habr.com##.promo-block
+
+! https://vk.com — hide subscription shit
+vk.com##.CatalogBlock__placeholder.CatalogBlock__subscription_ru.CatalogBlock__content
+vk.com##.audio_promo
+vk.com##.feed_groups_recomm.page_block
