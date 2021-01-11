@@ -22,3 +22,9 @@ habr.com##.promo-block
 vk.com##.CatalogBlock__placeholder.CatalogBlock__subscription_ru.CatalogBlock__content
 vk.com##.audio_promo
 vk.com##.feed_groups_recomm.page_block
+
+! google.com hide trash sites
+google.com#?##search .g:-abp-has([href*="coderoad.ru"])
+
+! aliexpress
+aliexpress.ru##.festival-main-venue
