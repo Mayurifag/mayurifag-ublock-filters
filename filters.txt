@@ -30,4 +30,4 @@ google.com#?##search .g:-abp-has([href*="coderoad.ru"])
 aliexpress.ru##.festival-main-venue
 
 ! pornhub premium vids
-pornhub.com###relateRecommendedItems>li:has(.premiumIcon)
+pornhub.com###relateRecommendedItems>.alpha
